@@ -1,0 +1,1 @@
+FROM ${ARCH}nginx:1.24
